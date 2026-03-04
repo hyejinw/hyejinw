@@ -1,6 +1,5 @@
-# 👋 Hello, I'm Hyejin WOO!
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=AI%20Engineer%20Hyejin&fontSize=60&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=creame&color=7ACF7A&height=250&section=header&text=AI%20Engineer%20Hyejin&fontSize=60&animation=fadeIn&fontAlignY=38" />
 </div>
 
 <div align="center">

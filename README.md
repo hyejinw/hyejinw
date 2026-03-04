@@ -57,7 +57,7 @@
 
 - **OPIc** : IH (Intermediate High)
 - **SQLD** : 국가공인 SQL 개발자
-- **Network Administrator** : 네트워크관리사 2급
+- **네트워크관리사 2급**
 - **GTQ** : 그래픽기술자격 1급
 
 <br/>

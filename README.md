@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=creame&color=7ACF7A&height=250&section=header&text=AI%20Engineer%20Hyejin&fontSize=60&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=B8E9B8&height=200&section=header&text=AI%20|%20Backend%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=50" />
 </div>
 
 <div align="center">
-  <h2>🚀 AI Engineer | Backend & End-to-End Specialized</h2>
+  <h2> HYEJIN WOO </h2>
   <p><b>"사용자와 AI를 기술로 연결하는 End-to-End 엔지니어"</b></p>
   <p>인프라와 모델의 병목을 해결하여, 끊김 없는 AI 서비스를 구축하는 데 집중합니다.</p>
 </div>
@@ -68,6 +68,10 @@
 - 💼 LinkedIn: [Hyejin Woo](https://www.linkedin.com/in/hyejinw)
 
 <br/>
+<br/>
+<br/>
 
-![Hyejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejinw&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejinw&layout=compact&theme=transparent)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=B8E9B8&height=200&section=footer&text=&reversal=true" />
+</div>

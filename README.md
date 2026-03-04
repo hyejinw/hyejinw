@@ -38,8 +38,8 @@
 | 프로젝트명 | 기간 | 상세 내용 | 관련 링크 |
 | :--- | :--- | :--- | :--- |
 | **RecipeU** | 2026.01 - 2026.02 | 개인화 AI 요리 에이전트 서비스 (FastAPI 서빙 최적화 및 감자 셰프 음성 클로닝) | [Repo](https://github.com/hyejinw/recipeu) |
-| **수능형 문제 풀이 모델** | 2025.12 - 2026.01 | 수능 국어/영어 지문 분석 및 정답 생성 LLM 파이프라인 구축 | - |
-| **Open-Domain QA** | 2025.11 - 2025.12 | ElasticSearch 연동을 통한 대규모 위키피디아 기반 질의응답 시스템 고도화 | - |
+| **수능형 문제 풀이 모델** | 2025.12 - 2026.01 | 수능 국어/영어 지문 분석 및 정답 생성 LLM 파이프라인 구축 | [Repo](https://github.com/hyejinw/korean-sat-solver) |
+| **Open-Domain QA** | 2025.11 - 2025.12 | ElasticSearch 연동을 통한 대규모 위키피디아 기반 질의응답 시스템 고도화 | [Repo](https://github.com/hyejinw/odqa-project) |
 
 <br/>
 

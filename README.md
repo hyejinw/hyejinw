@@ -63,9 +63,9 @@
 <br/>
 
 ## ✍️ Contact & Links
-- 📧 Email: hyejinw@gmail.com
+- 📧 Email: hyejinwmelody@gmail.com
 - 📝 Blog: [Tistory Blog](https://lulook.tistory.com/)
-- 💼 LinkedIn: [Hyejin Woo](https://www.linkedin.com/in/hyejinw)
+- 💼 LinkedIn: [HYEJIN WOO](https://www.linkedin.com/in/hyejinw)
 
 <br/>
 <br/>
